@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b9f18e723635f389",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b9ccb60899c643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd4194424793ef96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "周易预测/阴阳起源.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "阴阳起源"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a91930874c5793",
+    "type": "split",
+    "children": [
+      {
+        "id": "89696d1c4e7cd5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c4a9d681655dc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8fbad2f7c87c45d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4cde3bdcef8ee2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "积累/markdown/格式积累/格式积累.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "格式积累"
+            }
+          },
+          {
+            "id": "0a87da5d92cd7a67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5c302a4764c14a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2301ae3eba87a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35d9deadd8828108",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "视频制作/内容/408/vedio2 机器中的数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "vedio2 机器中的数 的反向链接列表"
+            }
+          },
+          {
+            "id": "117b44276a7d4bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "视频制作/内容/408/vedio2 机器中的数.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "vedio2 机器中的数 的出链列表"
+            }
+          },
+          {
+            "id": "6294c7c812dfc098",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7ccf9945e5cf93be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "周易预测/阴阳起源.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "阴阳起源 的大纲"
+            }
+          },
+          {
+            "id": "5232835cd65af4f9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "fd4194424793ef96",
+  "lastOpenFiles": [
+    "周易预测",
+    "周易预测/阴阳起源.md",
+    "其他/上海短期旅游攻略.md",
+    "其他/小测验答案.md",
+    "成长类/游戏笔记/Ron/预备知识.md",
+    "成长类/算法相关知识/py/知识点/python 语言基础.md",
+    "其他/高一化学讲义  第一章.md",
+    "成长类/算法相关知识/cpp/一. 单链表.md",
+    "成长类/算法相关知识/cpp/三. 环形链表.md",
+    "成长类/算法相关知识/cpp/二. 双链表.md",
+    "工作补齐/迭代要求/layer_norm_grad_v3/涉及文件.md",
+    "工作补齐/迭代要求/layer_norm_grad_v3/7.11工作内容.md",
+    "工作补齐/迭代要求/layer_norm_grad_v3",
+    "工作补齐/迭代要求",
+    "工作补齐/未命名.md",
+    "成长类/如何找到自己擅长的事情.md",
+    "成长类/算法相关知识/py/知识点",
+    "成长类/算法相关知识/py",
+    "工作补齐/唐老师工作/课后作业.md",
+    "图片库/Pasted image 20250601004023.png",
+    "工作补齐/唐老师工作",
+    "工作补齐",
+    "解析/单词/modify.md",
+    "解析/单词/claustrophobia.md",
+    "解析/单词/banal.md",
+    "解析/单词/assign.md",
+    "成长类/算法题/题库/常用代码模块/4.读取输入  主函数部分.md",
+    "成长类/游戏笔记/Ron",
+    "成长类/游戏笔记",
+    "成长类/算法题/题库/1.链表双指针/3.合并K个升序链表.md",
+    "成长类/算法题/题库/常用代码模块/3. 打印链表.md",
+    "成长类/算法题/题库/常用代码模块/2.定义链表类型.md",
+    "成长类/算法题/题库/常用代码模块/1.根据输入创建链表.md",
+    "成长类/算法题/算法相关知识/未命名.md",
+    "成长类/算法题/题库/常用代码模块",
+    "成长类/算法题/题库/1.链表双指针/2.分隔链表.md",
+    "成长类/算法题/题库/OD模拟",
+    "图片库/Pasted image 20250304074743.png",
+    "图片库/Pasted image 20250304074440.png",
+    "图片库/Excalidraw/Pasted image 20241125140732.png",
+    "图片库/Excalidraw/Pasted image 20241125140652.png",
+    "图片库/Excalidraw/Pasted image 20241125140552.png",
+    "图片库/Excalidraw/Pasted image 20241125140536.png",
+    "图片库/0e6439c222a0e0114749b739f786ef5.jpg",
+    "图片库/8d720620514f9b84eba7c4290e0f708.png",
+    "图片库/03f55c8140686f03ca76cbe1923b493.jpg"
+  ]
+}
